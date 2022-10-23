@@ -6,11 +6,11 @@
 ### Build Management Tool:Maven
 ### Framework: Testng
 ### Language:Java
-### Platform/Environment Used:Eciplse
+### Platform/Environment Used:Eclipse.
 
-## Project Acitivity
+## Overall Acitivity
 
-### 1.Reads from Excel(testData.xlsx) file Value to search in www.google.com.
+### 1.Reads value from Excel(testData.xlsx) file  to search in www.google.com.
 ### 2.Returns Longest and Shortest serach suggestion/option  of the key value provide in the xlsx file.
 ### 3.Writes the returned value in Excel file(testData.xlsx).
 
