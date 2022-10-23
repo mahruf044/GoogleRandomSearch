@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-23T06:32:22 BDT" name="Suite" finished-at="2022-10-23T06:33:10 BDT" duration-ms="48506">
+    <groups>
+    </groups>
+    <test started-at="2022-10-23T06:32:22 BDT" name="Test" finished-at="2022-10-23T06:33:10 BDT" duration-ms="48506">
+      <class name="base.DriverSetup">
+        <test-method is-config="true" signature="setup()[pri:0, instance:base.DriverSetup@16eccb2e]" started-at="2022-10-23T06:32:18 BDT" name="setup" finished-at="2022-10-23T06:32:22 BDT" duration-ms="4086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:base.DriverSetup@16eccb2e]" started-at="2022-10-23T06:33:10 BDT" name="tearDown" finished-at="2022-10-23T06:33:11 BDT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.DriverSetup -->
+      <class name="testCases.TC001_GoToSite">
+        <test-method signature="goToSite(java.util.ArrayList)[pri:1, instance:testCases.TC001_GoToSite@39ac0c0a]" started-at="2022-10-23T06:32:23 BDT" name="goToSite" data-provider="readXLS" finished-at="2022-10-23T06:33:10 BDT" duration-ms="47353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Dhaka, Sunday, Baby, School, Cricket, Momey, Int, Look, Hello, By]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSite -->
+      </class> <!-- testCases.TC001_GoToSite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
