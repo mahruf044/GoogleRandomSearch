@@ -1,6 +1,5 @@
 # GoogleRandomSearch
 
-## An Assignment project for the job interview of 4Beats company
 
 ### Automated Tool Used: Selenium
 ### Build Management Tool:Maven
